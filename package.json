@@ -1,8 +1,8 @@
 {
-  "name": "skyline-console",
+  "name": "multicloud-console",
   "version": "1.0.0",
   "description": "",
-  "author": "OpenStack <openstack-discuss@lists.openstack.org>",
+  "author": "Conzex Global <hello@conzex.com>",
   "license": "Apache-2.0",
   "scripts": {
     "mock": "webpack-dev-server --open --config config/webpack.dev.js",
